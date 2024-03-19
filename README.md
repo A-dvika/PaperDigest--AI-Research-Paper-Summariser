@@ -27,20 +27,6 @@
    ```bash
    git clone https://github.com/yourusername/PaperDigest.git
    cd PaperDigest
-
-   Certainly! Here's the guide in Markdown code:
-
-```markdown
-# PaperDigest
-
-PaperDigest is a research paper summarization tool powered by AI, designed to help you digest complex academic literature effortlessly.
-
-## How to Use
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/PaperDigest.git
-   cd PaperDigest
    ```
 
 2. **Add Your API Key:**
