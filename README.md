@@ -1,6 +1,7 @@
-<<<<<<< HEAD
+
 # PaperDigest: Digesting Research, One Paper at a Time.
 
+[screen-capture.webm](https://github.com/A-dvika/PaperDigest--AI-Research-Paper-Summariser/assets/115079077/280f2903-44e8-4b52-aa67-cbf5500d6591)
 
 🔍📚✨ *Welcome to PaperDigest, where the world of research unfolds at your fingertips!* 🚀🔬
 
