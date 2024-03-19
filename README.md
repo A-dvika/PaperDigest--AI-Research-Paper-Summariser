@@ -1,1 +1,1 @@
-# PaperDigest--AI-Research-Paper-Summariser
+# PaperDigest:AI-Research-Paper-Summariser
