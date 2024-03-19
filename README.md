@@ -20,3 +20,42 @@
 "Remember, as Galileo once said, 'All truths are easy to understand once they are discovered; the point is to discover them.' Let PaperDigest be your guide as you embark on your quest for knowledge."
 
 
+
+## How to Use
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/PaperDigest.git
+   cd PaperDigest
+
+   Certainly! Here's the guide in Markdown code:
+
+```markdown
+# PaperDigest
+
+PaperDigest is a research paper summarization tool powered by AI, designed to help you digest complex academic literature effortlessly.
+
+## How to Use
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/PaperDigest.git
+   cd PaperDigest
+   ```
+
+2. **Add Your API Key:**
+   - Navigate to `apikey.py`.
+   - Paste your OpenAI API key into the `apikey` variable.
+
+3. **Run the Application:**
+   ```bash
+   streamlit run app.py
+   ```
+
+4. **Access PaperDigest:**
+   - Once the Streamlit server starts, open your web browser and go to the provided URL (typically http://localhost:8501).
+   - Upload your research paper (in PDF format) and explore the summarization features provided by PaperDigest.
+
+## Requirements
+
+install via `pip install -r requirements.txt`
