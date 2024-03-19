@@ -25,7 +25,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/PaperDigest.git
+   git clone git@github.com:A-dvika/PaperDigest--AI-Research-Paper-Summariser.git
    cd PaperDigest
    ```
 
